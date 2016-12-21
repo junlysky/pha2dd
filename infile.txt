@@ -1,0 +1,93 @@
+﻿
+
+VI0 Volume_type Catalog_full CSF_Ver 1.0
+VI1 Net_code CC Net_cname 中国数字测震台网 0000-00-00 00:00:00.00 0000-00-00 00:00:00.00
+HSB Net_code Sta_code Sta_cname Sta_type Chan_num Sta_lat Sta_lon Sta_elev Local_depth sensor Datarecord Rock_type Sensi-NS Sensi-EW Sensi-UD
+HBO Net_code date time Epi_lat Epi_lon Epi_depth Mag_name Mag_value Rms Qloc Sum_stn Loc_stn Epic_id Source_id Eq_type Location_cname
+HEO Auto_flag Event_id Sequen_name Depfix_flag M M_source SPmin Dmin Gap_azi Erh Erz Qnet Qcom Sum_pha Loc_pha FE_num FE_sname
+HMB Mag_name Mag_val Mag_gap Mag_stn Mag_error
+HPB Net_code Sta_code Chn_code Clarity Wsign Phase_name Weight Rec_type Phase_time Phase_time Resi Distance Azi Amp Period Mag_name Mag_val
+
+DBO XJ 2016-12-14 23:56:32.83  43.725   86.314   5 ML    0.8  0.444 1   0   4 65 65 eq 新疆呼图壁           
+DEO C XJ.201612142356.0001                      1 -0.2 ML               204.6             0 0       8  332                                                                 
+DMB ML     0.8           
+DPB XJ   BLT BHN         SMN 1  D 2016-12-14 23:57:00.62   -0.21   91.2 162.1       0.0   0.12     ML  0.6
+DPB XJ   BLT BHE         SME 1  D 2016-12-14 23:57:00.50   -0.21   91.2 162.1       0.0   0.11     ML  0.6
+DPB XJ   BLT BHE          Sg 1  V 2016-12-14 23:56:59.70    1.34   91.0 162.1       0.0   0.00           
+DPB XJ   BLT BHZ   R      Pg 1  V 2016-12-14 23:56:48.59    0.44   91.0 162.1       0.0   0.00           
+DPB XJ L6504 SHZ   C      Pg 1  V 2016-12-14 23:56:35.26   -0.12   11.0   6.7       0.0   0.00           
+DPB XJ L6504 SHE          Sg 1  V 2016-12-14 23:56:37.89    0.75   11.0   6.7       0.0   0.00           
+DPB XJ L6504 SHN         SMN 1  D 2016-12-14 23:56:38.29   -0.05   11.6   6.7       0.0   0.17     ML  0.7
+DPB XJ L6504 SHE         SME 1  D 2016-12-14 23:56:38.32   -0.05   11.6   6.7       0.1   0.22     ML  0.7
+DPB XJ L6505 SHZ E        Pg 1  V 2016-12-14 23:56:35.14    0.10    8.0   7.0       0.0   0.00           
+DPB XJ L6505 SHE         SME 1  D 2016-12-14 23:56:38.10   -0.59    8.1   7.0       0.0   0.17     ML  0.2
+DPB XJ L6505 SHN         SMN 1  D 2016-12-14 23:56:38.01   -0.59    8.1   7.0       0.0   0.22     ML  0.2
+DPB XJ L6505 SHE          Sg 1  V 2016-12-14 23:56:37.55    1.01    8.0   7.0       0.0   0.00           
+DPB XJ   STZ BHE          Sg 1  V 2016-12-14 23:56:41.34    0.44   27.0  92.7       0.0   0.00           
+DPB XJ   STZ BHE         SME 1  D 2016-12-14 23:56:41.70    0.86   27.2  92.7       0.4   0.23     ML  1.6
+DPB XJ   STZ BHN         SMN 1  D 2016-12-14 23:56:41.71    0.86   27.2  92.7       0.0   0.19     ML  1.6
+DPB XJ   STZ BHZ   U      Pg 1  V 2016-12-14 23:56:37.25   -0.42   27.0  92.7       0.0   0.00           
+DBO XJ 2016-12-14 23:37:01.95  43.754   86.309   7 ML    1.6  0.664 1   0  12 65 65 eq 新疆呼图壁           
+DEO C XJ.201612142337.0001                      1  0.7 ML               100.4             0 0      18  332                                                                 
+DMB ML     1.6           
+DPB XJ   BLT BHZ   R      Pg 1  V 2016-12-14 23:37:18.25    0.44   94.0 162.4       0.0   0.00           
+DPB XJ   BLT BHE          Sg 1  V 2016-12-14 23:37:29.89    1.54   94.0 162.4       0.0   0.00           
+DPB XJ   BLT BHE         SME 1  D 2016-12-14 23:37:30.69   -0.14   94.4 162.4       0.0   0.17     ML  1.4
+DPB XJ   BLT BHN         SMN 1  D 2016-12-14 23:37:31.35   -0.14   94.4 162.4       0.0   0.10     ML  1.4
+DPB XJ   HTB BHE         SME 1  D 2016-12-14 23:37:23.57    0.12   43.1  30.7       0.1   0.52     ML  1.7
+DPB XJ   HTB BHN         SMN 1  D 2016-12-14 23:37:23.39    0.12   43.1  30.7       0.0   0.42     ML  1.7
+DPB XJ   HTB BHZ          Pg 1  V 2016-12-14 23:37:08.89   -0.47   43.0  30.7       0.0   0.00           
+DPB XJ L6504 SHZ   C      Pg 1  V 2016-12-14 23:37:04.24    0.04    8.0  12.2       0.0   0.00           
+DPB XJ L6504 SHN          Sg 1  V 2016-12-14 23:37:06.89    1.19    8.0  12.2       0.0   0.00           
+DPB XJ L6504 SHE         SME 1  D 2016-12-14 23:37:08.42   -0.23    8.5  12.2       0.5   0.19     ML  1.4
+DPB XJ L6504 SHN         SMN 1  D 2016-12-14 23:37:07.79   -0.23    8.5  12.2       0.1   0.17     ML  1.4
+DPB XJ L6505 SHE         SME 1  D 2016-12-14 23:37:06.94   -0.15    5.0  16.5       0.8   0.15     ML  1.4
+DPB XJ L6505 SHN         SMN 1  D 2016-12-14 23:37:07.03   -0.15    5.0  16.5       0.1   0.18     ML  1.4
+DPB XJ L6505 SHZ   C      Pg 1  V 2016-12-14 23:37:04.22    0.27    5.0  16.5       0.0   0.00           
+DPB XJ L6505 SHE          Sg 1  V 2016-12-14 23:37:06.80    1.45    5.0  16.5       0.0   0.00           
+DPB XJ   LHG BHN          Sg 1  V 2016-12-14 23:37:20.91    1.55   62.0 101.9       0.0   0.00           
+DPB XJ   LHG BHN         SMN 1  D 2016-12-14 23:37:22.77    0.03   62.1 101.9       0.0   0.47     ML  1.6
+DPB XJ   LHG BHE         SME 1  D 2016-12-14 23:37:22.56    0.03   62.1 101.9       0.0   0.45     ML  1.6
+DPB XJ   LHG BHZ          Pg 1  V 2016-12-14 23:37:12.39    0.03   62.0 101.9       0.0   0.00           
+DPB XJ   MSW BHN          Sg 1  V 2016-12-14 23:37:33.94    0.59  112.0 356.1       0.0   0.00           
+DPB XJ   MSW BHE         SME 1  D 2016-12-14 23:37:39.94    0.06  112.1 356.1       0.0   0.19     ML  1.6
+DPB XJ   MSW BHN         SMN 1  D 2016-12-14 23:37:35.01    0.06  112.1 356.1       0.0   0.31     ML  1.6
+DPB XJ   SCH BHE          Sg 1  V 2016-12-14 23:37:17.69    0.91   53.0 290.2       0.0   0.00           
+DPB XJ   SCH BHE         SME 1  D 2016-12-14 23:37:18.49   -0.72   53.1 290.2       0.0   0.29     ML  0.9
+DPB XJ   SCH BHN         SMN 1  D 2016-12-14 23:37:20.00   -0.72   53.1 290.2       0.0   0.26     ML  0.9
+DPB XJ   SHZ BHE         SME 1  D 2016-12-14 23:37:22.09    0.45   62.3 325.2       0.1   0.42     ML  2.0
+DPB XJ   SHZ BHN         SMN 1  D 2016-12-14 23:37:25.50    0.45   62.3 325.2       0.1   0.31     ML  2.0
+DPB XJ   SHZ BHE          Sg 1  V 2016-12-14 23:37:21.43    2.03   62.0 325.2       0.0   0.00           
+DPB XJ   SHZ BHZ          Pg 1  V 2016-12-14 23:37:12.40    0.00   62.0 325.2       0.0   0.00           
+DPB XJ   STZ BHE         SME 1  D 2016-12-14 23:37:11.99    0.72   28.0  99.3       1.6   0.31     ML  2.3
+DPB XJ   STZ BHE          Sg 1  V 2016-12-14 23:37:11.73    1.48   28.0  99.3       0.0   0.00           
+DPB XJ   STZ BHZ   R      Pg 1  V 2016-12-14 23:37:07.02    0.07   28.0  99.3       0.0   0.00           
+DPB XJ   STZ BHN         SMN 1  D 2016-12-14 23:37:12.10    0.72   28.0  99.3       0.1   0.22     ML  2.3
+DPB XJ   TCH BHE         SME 1  D 2016-12-14 23:37:51.53    0.42  143.5  83.4       0.0   0.24     ML  2.0
+DPB XJ   TCH BHN         SMN 1  D 2016-12-14 23:37:51.65    0.42  143.5  83.4       0.0   0.25     ML  2.0
+DPB XJ   TCH BHZ E        Pg 1  V 2016-12-14 23:37:24.86   -1.27  143.0  83.4       0.0   0.00           
+DPB XJ   WSU BHN         SMN 1  D 2016-12-14 23:37:47.84   -0.22  139.7 287.7       0.0   0.22     ML  1.4
+DPB XJ   WSU BHE         SME 1  D 2016-12-14 23:37:48.26   -0.22  139.7 287.7       0.0   0.26     ML  1.4
+DPB XJ   WSU BHZ E        Pg 1  V 2016-12-14 23:37:25.91    0.43  139.0 287.7       0.0   0.00           
+DPB XJ   XQG BHE         SME 1  D 2016-12-14 23:37:57.23   -0.35  186.3 187.3       0.0   0.24     ML  1.2
+DPB XJ   XQG BHN         SMN 1  D 2016-12-14 23:38:01.06   -0.35  186.3 187.3       0.0   0.25     ML  1.2
+DPB XJ   XQG BHZ E        Pg 1  V 2016-12-14 23:37:33.76    0.47  186.0 187.3       0.0   0.00           
+DBO XJ 2016-12-14 23:33:36.22  43.860   86.027   4 ML    0.9  0.047 1   0   4 65 65 eq 新疆玛纳斯           
+DEO C XJ.201612142333.0001                      1 -0.1 ML               304.9             0 0       8  332                                                                 
+DMB ML     0.9           
+DPB XJ   BLT BHE         SME 1  D 2016-12-14 23:34:08.64   -0.26  113.9 153.1       0.0   0.15     ML  0.6
+DPB XJ   BLT BHN         SMN 1  D 2016-12-14 23:34:08.39   -0.26  113.9 153.1       0.0   0.22     ML  0.6
+DPB XJ   BLT BHE          Sg 1  V 2016-12-14 23:34:08.09    0.03  113.0 153.1       0.0   0.00           
+DPB XJ   BLT BHZ E        Pg 1  V 2016-12-14 23:33:55.48    0.10  113.0 153.1       0.0   0.00           
+DPB XJ L6504 SHZ   D      Pg 1  V 2016-12-14 23:33:40.73    0.04   24.0  98.0       0.0   0.00           
+DPB XJ L6504 SHN          Sg 1  V 2016-12-14 23:33:43.72    0.10   24.0  98.0       0.0   0.00           
+DPB XJ L6504 SHE         SME 1  D 2016-12-14 23:33:44.48   -0.06   24.7  98.0       0.1   0.18     ML  0.8
+DPB XJ L6504 SHN         SMN 1  D 2016-12-14 23:33:44.51   -0.06   24.7  98.0       0.0   0.17     ML  0.8
+DPB XJ L6505 SHZ E        Pg 1  V 2016-12-14 23:33:40.72   -0.01   25.0 106.0       0.0   0.00           
+DPB XJ L6505 SHE         SME 1  D 2016-12-14 23:33:44.62   -0.25   25.0 106.0       0.0   0.17     ML  0.6
+DPB XJ L6505 SHN         SMN 1  D 2016-12-14 23:33:44.13   -0.25   25.0 106.0       0.0   0.26     ML  0.6
+DPB XJ L6505 SHN          Sg 1  V 2016-12-14 23:33:43.76    0.03   25.0 106.0       0.0   0.00           
+DPB XJ   STZ BHE          Sg 1  V 2016-12-14 23:33:51.05    0.06   52.0 107.8       0.0   0.00           
+DPB XJ   STZ BHN         SMN 1  D 2016-12-14 23:33:52.21    0.57   52.9 107.8       0.0   0.17     ML  1.5
+DPB XJ   STZ BHE         SME 1  D 2016-12-14 23:33:52.68    0.57   52.9 107.8       0.0   0.29     ML  1.5
+DPB XJ   STZ BHZ   U      Pg 1  V 2016-12-14 23:33:44.96   -0.13   52.0 107.8       0.0   0.00 
